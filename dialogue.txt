@@ -1,0 +1,5 @@
+
+ 
+ Page 1 
+ 
+speech anaWsB  speech synthesis  pronunc- iation model  Phonology  morphological and lexical analysis  morphological realization  Morphology    parsing  syntactic realization  lexicon and grammar  l contextual I  reasoning  utterance planning  discourse context  Semantics  application reasoning and execution  domain knowledge  Reasoning
